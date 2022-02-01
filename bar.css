@@ -1,0 +1,67 @@
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header {background-color: rgb(155, 195, 255);
+         width: 100%;
+         float:left}
+
+.container {  width: 1140px;  
+              margin: auto}
+
+.logo-part{width: 33.33%; 
+background-color: rgb(155, 195, 255);
+float: left; 
+padding: 6px;}
+
+.menu-part{width: 33.33%; 
+background-color: powderblue; 
+float: left;}
+
+.search-part {width: 33.33%;
+background-color: rgb(155, 195, 255);
+float: left;
+padding: 18px;
+text-align: left;}
+ul li { display: inline-block;
+margin: 23px;}
+
+#ll{padding: 7px;
+background-color: rgb(212, 208, 208);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+/*hero-part*/
+
+#hero {  width:100%;
+    float: left;
+    padding: 50px;
+    background-color: darkcyan;
+
+}
+
+.main-part {width: 50%;
+    float: left;
+    padding: 50px;
+
+ }
+ h1 {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(100, 245, 245);
+font-size: 3em;}
+ 
+ h3 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 2em;
+color: darkblue;}
+ 
+ p {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.img-part{ width: 50%;
+    float: left;
+    padding: 50px;
+
+ }
+ #b{padding: 19px;
+margin: 20px;
+width: 150px;
+background-color: rgb(121, 169, 231);
+font-family: cursive;
+border-radius: 20px;
+}
